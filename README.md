@@ -1,2 +1,3 @@
-# Lab Exercises for Algorithms & Complexity course
-# National Technical University of Athens
+# Lab Exercises 
+Algorithms & Complexity course
+National Technical University of Athens
