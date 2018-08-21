@@ -1,3 +1,2 @@
-# algo
-# algo-complexity
-# algo
+# Lab Exercises for Algorithms & Complexity course
+# National Technical University of Athens
